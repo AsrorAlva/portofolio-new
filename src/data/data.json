@@ -1,0 +1,116 @@
+{
+    "photoProfile": {
+        "url": "public/profile.jpg",
+        "alt": "Portrait of a Developer"
+    },
+    "profile": {
+        "name": "Muhammad Asror Alva",
+        "age": 22,
+        "email": "asroralva1905@gmail.com",
+        "role": "Fullstack Engineer",
+        "subtitle": "Fullstack Developer / Vibe",
+        "about": "A multidisciplinary developer focusing on high-end digital experiences. I bridge the gap between complex engineering and street-ready aesthetics. My approach is rooted in technical precision and minimalist design principles.",
+        "heroDescription": "Engineering digital artifacts that blend raw street culture with sophisticated technical architecture. Currently pushing the boundaries of interactive web experiences.",
+        "heroButtons": {
+            "work": "Selected Works",
+            "contact": "Get In Touch"
+        },
+        "funnyText": [
+            "Manifesting cleaner code",
+            "Optimization is an art form",
+            "Blending tech with streetwear",
+            "Synthesizing digital vibes"
+        ]
+    },
+    "education": [
+        {
+            "degree": "B.Sc in Computer Science",
+            "institution": "Global Tech Institute",
+            "year": "2020 - 2024",
+            "gpa": "3.90/4.00"
+        },
+        {
+            "degree": "Interaction Design Certification",
+            "institution": "Design Academy Berlin",
+            "year": "2023",
+            "gpa": "A+"
+        }
+    ],
+    "experience": [
+        {
+            "position": "Senior Fullstack Engineer",
+            "company": "VibeLab Digital",
+            "duration": "2022 - Present",
+            "description": "Leading the development of high-performance React applications. Orchestrating cloud architecture and implementing sophisticated UI systems with Framer Motion."
+        },
+        {
+            "position": "UI/UX Developer",
+            "company": "Streetwear Nexus",
+            "duration": "2021 - 2022",
+            "description": "Developed interactive e-commerce experiences for high-end streetwear brands. Focused on micro-interactions and performance optimization."
+        },
+        {
+            "position": "Frontend Intern",
+            "company": "Modern Web Solutions",
+            "duration": "2020",
+            "description": "Assisted in building responsive dashboards and maintaining internal component libraries using React and Tailwind CSS."
+        }
+    ],
+    "projects": [
+        {
+            "photo": {
+                "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=2000&auto=format&fit=crop",
+                "alt": "Cyberpunk UI Dashboard"
+            },
+            "name": "Ghost Framework",
+            "description": "A minimalist, high-performance CSS framework designed for dark-mode streetwear aesthetics. Focused on extreme speed and type-heavy layouts.",
+            "github": "https://github.com/example",
+            "liveUrl": "https://example.com",
+            "tech": ["React", "Framer Motion", "Tailwind"]
+        },
+        {
+            "photo": {
+                "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2000&auto=format&fit=crop",
+                "alt": "Abstract Digital Art"
+            },
+            "name": "Vibe Engine",
+            "description": "An interactive audio-visualizer that syncs digital aesthetics with real-time sound input. Built for digital installations and live sets.",
+            "github": "https://github.com/example",
+            "liveUrl": "https://example.com",
+            "tech": ["WebAudio API", "Three.js", "GSAP"]
+        },
+        {
+            "photo": {
+                "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2000&auto=format&fit=crop",
+                "alt": "Abstract Digital Art"
+            },
+            "name": "Vibe Engine",
+            "description": "An interactive audio-visualizer that syncs digital aesthetics with real-time sound input. Built for digital installations and live sets.",
+            "github": "https://github.com/example",
+            "liveUrl": "https://example.com",
+            "tech": ["WebAudio API", "Three.js", "GSAP"]
+        },
+        {
+            "photo": {
+                "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2000&auto=format&fit=crop",
+                "alt": "Abstract Digital Art"
+            },
+            "name": "Vibe Engine",
+            "description": "An interactive audio-visualizer that syncs digital aesthetics with real-time sound input. Built for digital installations and live sets.",
+            "github": "https://github.com/example",
+            "liveUrl": "https://example.com",
+            "tech": ["WebAudio API", "Three.js", "GSAP"]
+        },
+        {
+            "photo": {
+                "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2000&auto=format&fit=crop",
+                "alt": "Abstract Digital Art"
+            },
+            "name": "Vibe Engine",
+            "description": "An interactive audio-visualizer that syncs digital aesthetics with real-time sound input. Built for digital installations and live sets.",
+            "github": "https://github.com/example",
+            "liveUrl": "https://example.com",
+            "tech": ["WebAudio API", "Three.js", "GSAP"]
+        }
+    ]
+}
