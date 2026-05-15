@@ -6,54 +6,54 @@
     "profile": {
         "name": "Muhammad Asror Alva",
         "age": 22,
-        "email": "asroralva1905@gmail.com",
+        "email": "[EMAIL_ADDRESS]",
         "role": "Fullstack Engineer",
         "subtitle": "Fullstack Developer / Vibe",
-        "about": "A multidisciplinary developer focusing on high-end digital experiences. I bridge the gap between complex engineering and street-ready aesthetics. My approach is rooted in technical precision and minimalist design principles.",
-        "heroDescription": "Engineering digital artifacts that blend raw street culture with sophisticated technical architecture. Currently pushing the boundaries of interactive web experiences.",
+        "about": "Saya adalah seorang Fullstack Developer yang memiliki pengalaman dalam mengembangkan aplikasi web dan mobile. Saya juga memiliki pengalaman dalam membuat bot automation untuk berbagai keperluan.",
+        "heroDescription": "Saya adalah seorang Fullstack Developer yang memiliki pengalaman dalam mengembangkan aplikasi web dan mobile. Saya juga memiliki pengalaman dalam membuat bot automation untuk berbagai keperluan.",
         "heroButtons": {
             "work": "Selected Works",
             "contact": "Get In Touch"
         },
         "funnyText": [
-            "Manifesting cleaner code",
-            "Optimization is an art form",
-            "Blending tech with streetwear",
-            "Synthesizing digital vibes"
+            "Saya akan lawan !",
+            "MBG (Mesin Pencari Garuda)",
+            "Jaga dong marwahnya ******",
+            "$1 = Rp.17.607,05"
         ]
     },
     "education": [
         {
-            "degree": "B.Sc in Computer Science",
-            "institution": "Global Tech Institute",
-            "year": "2020 - 2024",
-            "gpa": "3.90/4.00"
-        },
-        {
-            "degree": "Interaction Design Certification",
-            "institution": "Design Academy Berlin",
-            "year": "2023",
-            "gpa": "A+"
+            "degree": "Diploma III",
+            "institution": "Universitas Sebelas Maret",
+            "year": "2022 - 2025",
+            "gpa": "3.58/4.00"
         }
     ],
     "experience": [
         {
-            "position": "Senior Fullstack Engineer",
-            "company": "VibeLab Digital",
-            "duration": "2022 - Present",
-            "description": "Leading the development of high-performance React applications. Orchestrating cloud architecture and implementing sophisticated UI systems with Framer Motion."
+            "position": "Intern Fullstack Developer",
+            "company": "PT. Gowa Modern Motor",
+            "duration": "2026 - Present",
+            "description": "Re-Layout website dealer hyundaigowa.com dan memperbaiki sistem yang sudah ada. dan juga memperbaiki logic pada sistem marketplace.hyundaigowa.co.id/product"
         },
         {
-            "position": "UI/UX Developer",
-            "company": "Streetwear Nexus",
-            "duration": "2021 - 2022",
-            "description": "Developed interactive e-commerce experiences for high-end streetwear brands. Focused on micro-interactions and performance optimization."
+            "position": "Freelance Bot Automation",
+            "company": "Solo",
+            "duration": "November 2024 - Present",
+            "description": "Membuat bot automation untuk berbagai keperluan, seperti upload dokumen, input data, generate dokumen, dll"
         },
         {
-            "position": "Frontend Intern",
-            "company": "Modern Web Solutions",
-            "duration": "2020",
-            "description": "Assisted in building responsive dashboards and maintaining internal component libraries using React and Tailwind CSS."
+            "position": "Intern Mobile Developer",
+            "company": "PT. Permata Wisata",
+            "duration": "September 2024 - Januari 2025",
+            "description": "Mengembangkan aplikasi mobile untuk pemesanan Open Trip, Private Trip, Custom Trip, dan Rental Mobil"
+        },
+        {
+            "position": "Intern Instruktur Fullstack Programming",
+            "company": "PT. Bisa Artifisial Indonesia",
+            "duration": "September - Desember 2024",
+            "description": "Mengajar kelas Fullstack dengan materi Programming Dasar menggunakan Bahasa Pemrograman Python dan juga Java Script"
         }
     ],
     "projects": [
